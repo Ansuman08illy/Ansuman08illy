@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ansuman08illy
+- 👋 Hi, I’m @Anshuman57
 - 👀 I’m interested in Data Analysis and Software Development
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
