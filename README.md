@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anshuman57
+- 👋 Hi, I’m @PaXx
 - 👀 I’m interested in Data Analytics, Finance and Software Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
